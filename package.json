@@ -13,8 +13,8 @@
     "express": "^4.15.4",
     "log-update": "^2.1.0",
     "minimist": "^1.2.0",
-    "puppeteer": "^0.10.2",
-    "tty-table": "^2.5.5"
+    "puppeteer": "^21.3.7",
+    "tty-table": "^4.0.0"
   },
   "bin": {
     "coin-hive": "./bin/coin-hive"
