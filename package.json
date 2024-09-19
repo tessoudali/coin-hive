@@ -10,7 +10,7 @@
   "dependencies": {
     "coin-hive-stratum": "^1.4.7",
     "elegant-spinner": "^1.0.1",
-    "express": "^4.15.4",
+    "express": "^4.20.0",
     "log-update": "^2.1.0",
     "minimist": "^1.2.0",
     "puppeteer": "^0.10.2",
